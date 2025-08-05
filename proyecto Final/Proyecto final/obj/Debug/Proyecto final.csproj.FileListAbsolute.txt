@@ -1,0 +1,132 @@
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormActualizar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormEliminar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormExportar.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormActualizar.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormEliminar.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormExportar.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Dataentry1\Documents\yo\Uni\Tareas pendiente\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormActualizar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormEliminar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FormExportar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.FormActualizar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.FormEliminar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.FormExportar.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\rapido\prebio\Actual\Proyecto final\Proyecto final\verción final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.FemMostrarEmpleados.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.FormActualizar.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.FormEliminar.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.FormExportar.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.FrmAgregarEmpleado.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\sambo\OneDrive\Documentos\Cuatrimestre\4.Cuatrimestre\Lenguaje de programamacion\Practica final 5.1\verción final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FemMostrarEmpleados.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.Form1.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormActualizar.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormEliminar.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormExportar.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FrmAgregarEmpleado.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\Dataentry1\Downloads\Nueva carpeta (3)\TRABAJOFINAL\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\verción final\Proyecto final\bin\Debug\Proyecto final.exe.config
+D:\Nueva carpeta\verción final\Proyecto final\bin\Debug\Proyecto final.exe
+D:\Nueva carpeta\verción final\Proyecto final\bin\Debug\Proyecto final.pdb
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FemMostrarEmpleados.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.Form1.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormActualizar.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormEliminar.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FormExportar.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\SistemaEmpleados.FrmAgregarEmpleado.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto final.exe
+D:\Nueva carpeta\verción final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.FemMostrarEmpleados.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.Form1.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.FormActualizar.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.FormEliminar.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.FormExportar.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\SistemaEmpleados.FrmAgregarEmpleado.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\valde\Downloads\proyecto Final\Proyecto final\obj\Debug\Proyecto final.pdb
